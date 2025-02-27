@@ -110,7 +110,7 @@ You can also interact with me through:
   <summary align="left"><h2 align="left">📘 My Top Open Source Projects</h2></summary>
 
   <div>
-    <a href="https://github.com/sauravkumar0501/Resume-Builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravkumar0501&repo=Trendora-BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="trendora-ecommerce-app"></a>
+    <a href="https://github.com/sauravkumar0501/Resume-Builder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravkumar0501&repo=Resume-Builder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="Resume-Builder-App"></a>
 
     
  <!-- <a href="https://github.com/sauravkumar0501/Trendora-FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sauravkumar0501&repo=Trendora-FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false%22" alt="trendora-ecommerce-app"></a>
